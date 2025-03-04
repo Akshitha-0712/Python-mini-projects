@@ -1,1 +1,1 @@
-# Python-mini-projects
+# Simple Calculator Using Python
